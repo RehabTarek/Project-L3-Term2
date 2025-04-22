@@ -8,7 +8,7 @@ This project combines two core sections:
 - **Fashion Landing Page** – Displays a sleek navbar, hero section, model imagery, and visual aesthetic with flexbox and animations (AOS).
 - **Style Filter Game** – A mini game where users can click a button to reveal their fashion personality randomly. Reset and home navigation included.
 
-## 🛠️ Skills Required
+## 🛠️ Skills Used
 
 To create and understand this project, you’ll need:
 - Basic **HTML** structure and elements
@@ -18,7 +18,6 @@ To create and understand this project, you’ll need:
   - Image styling and placement
   - `onclick` event handling
   - Page navigation with `window.location.href`
-- Optional:
   - AOS (Animate On Scroll) library for scroll animations
 
 
